@@ -1,4 +1,4 @@
-#Pychat
+# Pychat
 
 This application uses sockets so that the user can exchange messages.
 
